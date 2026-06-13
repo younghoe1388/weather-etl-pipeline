@@ -4,7 +4,7 @@
 
 ---
 
-## English / 英文
+## Description / 简介
 
 A simple ETL pipeline that fetches real-time weather data from OpenWeatherMap API and stores it into SQLite database.
 
